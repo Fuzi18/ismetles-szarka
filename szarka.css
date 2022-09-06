@@ -1,0 +1,53 @@
+html{
+     background-color: #F0F8FF;
+     color: #00008B;
+     
+     
+     
+}
+a{
+    color: #dc143c;
+}
+body{
+    color: #dc143c;
+}
+.kozep{
+    width: 100%;
+    justify-content: center;
+}
+hr{
+    width: 70%;
+}
+h1{
+    color: #dc143c;
+}
+h2{
+    color: #dc143c;
+}
+h3{
+    color: #dc143c;
+}
+h4{
+    color: #dc143c;
+}
+h5{
+    color: #dc143c;
+}
+.szarkatab{
+    width: 400px;
+}
+.szarkatab td image{
+    width: 230px;
+    height: 153px;
+}
+.kep2{
+    float: right;
+    width: 230px;
+    height: 153px;
+
+}
+.besortable{
+    width: 500px;
+    border: none;
+    outline: none;
+}

@@ -1,4 +1,4 @@
-# [Név]
+# [Füzesi Tamás]
 
 
 ## Hogyan kezdj neki?
